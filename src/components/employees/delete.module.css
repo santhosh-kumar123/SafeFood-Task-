@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.deleteSection{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
+.deleteArticle{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.deleteArticle table{
+    border: 5px solid gray;
+    border-radius: 10px;
+}
+.deleteArticle table  td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.deleteArticle table tr:nth-child(odd)
+{
+    background-color: #f2f2f2;
+    transition: all 0.3s;
+}
+.deleteArticle table tr:hover 
+{
+    background-color: #ddd;
+}
+.deleteArticle img{
+
+}

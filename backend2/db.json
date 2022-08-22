@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "firstname": "Santhosh kumar j r",
+      "lastname": "Santhosh Kumar J R",
+      "email": "santhoshkumarjr01@gmail.com",
+      "password": "8088372321",
+      "id": 1
+    },
+    {
+      "firstname": "Santhosh kumar jr",
+      "lastname": "Santhosh Kumar J R",
+      "email": "santhoshkumarjr01@gmvgvavyil.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
